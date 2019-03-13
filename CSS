@@ -1,0 +1,31 @@
+div{
+  background:red;
+  border-radius: 200px;
+  height:400px;
+  width:400px;
+  top:-150px;
+  right:-150px;
+  position:absolute;
+  z-index:-1px;
+  
+}
+
+.dot:hover{
+  background-color:purple;
+  
+}
+
+
+
+p
+{
+  width:1000px;
+  column-count: 2;
+  column-gap: 50px;
+  margin: 20;
+  column-rule-color: red;
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  font-size:20px;
+}
